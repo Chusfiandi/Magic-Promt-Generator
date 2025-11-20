@@ -55,7 +55,7 @@ const App: React.FC = () => {
            <span className="text-4xl">✨</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-violet-600 to-pink-500 mb-2">
-          Veo3 Kids Animation
+          Veo3 Kids Animation Chuss-Media
         </h1>
         <h2 className="text-xl sm:text-2xl font-bold text-slate-600">
           Magic Prompt Generator
